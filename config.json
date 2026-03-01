@@ -1,0 +1,42 @@
+{
+    "tokens": {},
+    "prefix": "$",
+    "remote-users": [],
+    "autoreply": {
+        "messages": [
+            ":sob:",
+            ":joy:",
+            ":hot_face:"
+        ],
+        "channels": [],
+        "users": []
+    },
+    "autopilot": {
+        "channels": [],
+        "users": [
+            "1344131269881237594",
+            "1210169882797412392"
+        ]
+    },
+    "auto-react": {
+        "users": [
+            1344131269881237594,
+            1245781589166788704
+        ],
+        "enabled": false,
+        "emojis": [
+            "\ud83d\ude2d",
+            "\ud83d\udc80"
+        ]
+    },
+    "afk": {
+        "enabled": false,
+        "message": "i am afk habibi, i'll get back at'cha!"
+    },
+    "copycat": {
+        "users": []
+    },
+    "rm_exe": {
+        "users": []
+    }
+}
