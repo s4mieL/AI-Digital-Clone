@@ -1,0 +1,8 @@
+discord.py
+requests
+colorama
+gTTS
+qrcode
+pyfiglet
+emoji
+openai
