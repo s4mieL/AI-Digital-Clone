@@ -6,3 +6,4 @@ qrcode
 pyfiglet
 emoji
 openai
+Pillow
